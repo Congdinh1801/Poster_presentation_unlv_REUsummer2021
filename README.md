@@ -1,5 +1,3 @@
-# Poster Presentation for REU summer at UNLV 2021
-
 # <div align="center"> Poster Presentation for REU summer at UNLV 2021 </div>
 
 ## YOLOv5 demo
