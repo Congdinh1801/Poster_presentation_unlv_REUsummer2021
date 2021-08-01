@@ -11,7 +11,7 @@ Longer version is available at https://www.youtube.com/watch?v=ZsCjoqQadiE&t=8s
 
 ## Poster
 
-Poster is available at <a href="./poster github.pptx">poster github.pptx</a>
+Poster is available to download at <a href="./poster github.pptx">poster github.pptx</a>
 
 <p>
 <img width="416" src="poster demo.PNG">
