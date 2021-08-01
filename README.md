@@ -13,6 +13,10 @@ Longer version is available at https://www.youtube.com/watch?v=ZsCjoqQadiE&t=8s
 
 Poster is available at poster.pdf
 
+<p>
+<img width="416" src="poster demo.png">
+</p>
+
 ## Link to my github work
 
 If you want to try YOLOv5 yourself, I made a small tutorial here: https://github.com/Congdinh1801/yolov5forFLIRdataset
