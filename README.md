@@ -28,6 +28,7 @@ If you want to try YOLOv5 yourself, I made a small tutorial here: https://github
 4. A useful Youtube tutorial on "How to Train YOLO v5 on a Custom Dataset" https://www.youtube.com/watch?v=MdF6x6ZmLAY and the corresponding Colab notebook https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ
 5. Efficient Panoptic Segmentation (EfficientPS) paper: https://arxiv.org/pdf/2004.02307
 6. Panoptic-DeepLab paper: https://arxiv.org/pdf/1911.10194.pdf
+7. NEVADA Traffic Safety Crash Facts: https://zerofatalitiesnv.com/app/uploads/2020/08/Crash-Facts_Pedestrians.pdf
 
 
 
