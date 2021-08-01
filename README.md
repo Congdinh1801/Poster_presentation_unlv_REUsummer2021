@@ -11,7 +11,7 @@ Longer version is available at https://www.youtube.com/watch?v=ZsCjoqQadiE&t=8s
 
 ## Poster
 
-Poster is available at poster.pdf
+Poster is available at <a href="url">poster.pdf</a>
 
 <p>
 <img width="416" src="poster demo.PNG">
