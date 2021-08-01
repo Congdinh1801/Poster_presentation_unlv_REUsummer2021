@@ -13,8 +13,7 @@ Longer version is available at https://www.youtube.com/watch?v=ZsCjoqQadiE&t=8s
 
 Poster is available to download at <a href="./official poster for github.pdf">official poster for github.pdf</a>
 
-<p>
-<img width="416" src="poster demo.PNG">
+<p><a href="./official poster for github.pdf"><img width="416" src="poster demo.PNG"></a>
 </p>
 
 ## Link to my github work
