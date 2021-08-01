@@ -14,7 +14,7 @@ Longer version is available at https://www.youtube.com/watch?v=ZsCjoqQadiE&t=8s
 Poster is available at poster.pdf
 
 <p>
-<img width="416" src="poster demo.png">
+<img width="416" src="poster demo.PNG">
 </p>
 
 ## Link to my github work
