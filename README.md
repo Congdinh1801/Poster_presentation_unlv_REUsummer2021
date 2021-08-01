@@ -29,6 +29,7 @@ If you want to try YOLOv5 yourself, I made a small tutorial here: https://github
 5. Efficient Panoptic Segmentation (EfficientPS) paper: https://arxiv.org/pdf/2004.02307
 6. Panoptic-DeepLab paper: https://arxiv.org/pdf/1911.10194.pdf
 7. NEVADA Traffic Safety Crash Facts: https://zerofatalitiesnv.com/app/uploads/2020/08/Crash-Facts_Pedestrians.pdf
+8. Nevada's traffic safety education program. Zero Fatalities. (2021, July 20). https://zerofatalitiesnv.com/. 
 
 
 
