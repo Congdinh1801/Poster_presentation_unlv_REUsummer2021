@@ -1,5 +1,6 @@
 # <div align="center"> Poster Presentation for REU summer at UNLV 2021 </div>
-## Author: Dinh Hoang
+### <div align="center"> Author: Dinh Hoang </div>
+
 ## YOLOv5 demo on Las Vegas Downtown drive
 
 Longer version is available at https://www.youtube.com/watch?v=ZsCjoqQadiE&t=8s
