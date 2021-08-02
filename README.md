@@ -9,7 +9,7 @@ Longer version (1min30s) is available at https://www.youtube.com/watch?v=ZsCjoqQ
 Another longer version (24 mins) is available at https://www.youtube.com/watch?v=tYbWGJOBmsk
 
 <p>
-<img width="416" src="downtown-las-vegas-15s-inferenced.gif.gif">
+<img width="416" src="8s_yolov5_vegas_hd.gif">
 </p>
 
 ## Poster
