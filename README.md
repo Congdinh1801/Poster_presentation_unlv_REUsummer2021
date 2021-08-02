@@ -3,7 +3,10 @@
 
 ## YOLOv5 demo on Las Vegas Downtown drive
 
-Longer version is available at https://www.youtube.com/watch?v=ZsCjoqQadiE&t=8s
+Longer version (1min30s) is available at https://www.youtube.com/watch?v=ZsCjoqQadiE&t=8s
+
+
+Another longer version (24 mins) is available at https://www.youtube.com/watch?v=tYbWGJOBmsk
 
 <p>
 <img width="416" src="downtown-las-vegas-15s-inferenced.gif.gif">
