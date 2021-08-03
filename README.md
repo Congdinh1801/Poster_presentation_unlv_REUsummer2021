@@ -25,7 +25,7 @@ If you want to try YOLOv5 yourself, I made a small tutorial here: https://github
 
 
 ## References
-1. Link to original YOLOv5 github: https://github.com/ultralytics/yolov5
+1. Link to the original YOLOv5 github: https://github.com/ultralytics/yolov5
 2. More information about YOLOv5 can be found in this well explaind article: https://blog.roboflow.com/yolov5-improvements-and-evaluation/
 3. YOLOv5 tutorial provided by the author on Colab: https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
 4. A useful Youtube tutorial on "How to Train YOLO v5 on a Custom Dataset" https://www.youtube.com/watch?v=MdF6x6ZmLAY and the corresponding Colab notebook https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ
