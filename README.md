@@ -14,9 +14,9 @@ Another longer version (24 mins) is available at https://www.youtube.com/watch?v
 
 ## Poster
 
-Poster is available to download at <a href="./official poster for github.pdf">official poster for github.pdf</a>
+Poster is available to download at <a href="./Dinh_Hoang_REU_2021_Poster.pdf">Dinh_Hoang_REU_2021_Poster.pdf</a>
 
-<p><a href="./official poster for github.pdf"><img width="416" src="poster demo.PNG"></a>
+<p><a href="./Dinh_Hoang_REU_2021_Poster.pdf"><img width="416" src="poster_demo.PNG"></a>
 </p>
 
 ## Link to my github work
